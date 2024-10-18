@@ -31,12 +31,4 @@
   <h3>🦖 GitHub History</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=nyximos&show_icons=true&theme=radical">
   </br></br>
-  <a href="https://github.com/devxb/gitanimals">
-  <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/farms/nyximos"
-    width="600"
-    height="300"
-  />
-  </a>
 </div>
