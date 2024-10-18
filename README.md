@@ -26,8 +26,17 @@
   <a href="https://www.linkedin.com/in/nyximos/">🤝 linkedin</a><br/>
   <a href="https://nyximos.tistory.com">👩‍💻 tech blog</a><br/>
   <a href="mailto:﻿"nyximos@gmail.com">✉️ email</a>
-   </br>
-   </br>
-   <h3>🦖 GitHub History</h3>
-   <img src="https://github-readme-stats.vercel.app/api?username=nyximos&show_icons=true&theme=radical">
+  </br>
+  </br>
+  <h3>🦖 GitHub History</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=nyximos&show_icons=true&theme=radical">
+  </br></br>
+  <a href="https://github.com/devxb/gitanimals">
+  <a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/nyximos"
+    width="600"
+    height="300"
+  />
+  </a>
 </div>
